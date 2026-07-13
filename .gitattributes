@@ -1,0 +1,29 @@
+/mvnw text eol=lf
+*.cmd text eol=crlf
+
+HELP.md
+
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+.mvn/wrapper/maven-wrapper.properties
+
+### IntelliJ ###
+.idea/
+*.iml
+
+### VS Code ###
+.vscode/
+
+### Mac ###
+.DS_Store
+
+### Logs ###
+*.log
+
+### Environment ###
+.env
+.env.*
+
+### Maven ###
+target/
