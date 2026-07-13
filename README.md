@@ -44,10 +44,6 @@ Future additions:
 
 🚧 Under active development.
 
-## Learning Philosophy
-
-Every feature in this repository is introduced by first explaining the underlying Spring concept, followed by implementation, testing, documentation, and a focused commit.
-
 ## License
 
 MIT
